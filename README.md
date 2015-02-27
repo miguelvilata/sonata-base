@@ -1,12 +1,12 @@
 Symfony Sonata Base Project
 ===========================
-This is a simple project with a basic Symfony2 setup and several Sonata bundles. If you want a step by step guide, please visit the original post in ["http://www.miguelvilata.com/blog/2014/12/17/creando-un-proyecto-base-con-symfony-y-sonata-project"](http://www.miguelvilata.com/blog/2014/12/17/creando-un-proyecto-base-con-symfony-y-sonata-project "Symfony Sonata Base Project")
+This is a simple project with a basic Symfony2 setup and several Sonata bundles. If you want a step by step guide, please visit the original post in ["http://www.miguelvilata.com/blog/creando-formularios-personalizados-en-sonata"](http://www.miguelvilata.com/blog/creando-formularios-personalizados-en-sonata "Symfony Sonata Base Project custom form")
 
 ## Installation
 
 #### Clonación del proyecto
 ```
-git clone https://github.com/wchemi/sonata-base.git
+git clone https://github.com/miguelvilata/sonata-base.git
 ```
 
 #### Update libraries
